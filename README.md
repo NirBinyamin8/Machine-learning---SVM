@@ -10,9 +10,11 @@ Utilized both the quadratic and dual programs for crafting the model.
 ## 🔬 Phase 2: Venturing into Advanced Kernel Experimentation 🧪
 Delved into the nitty-gritty of the SVM's dual program.
 Rolled up the sleeves for rigorous kernel experimentations:
-🧮 Polynomial
-🌀 Radial Basis Function (RBF)
-Meticulous parameter tuning for each kernel ensures peak performance.
+- 🧮 Polynomial
+- 🌀 Radial Basis Function (RBF)
+- Meticulous parameter tuning for each kernel ensures peak performance.
+
+
 ## 🎓 Phase 3: The Craft of SVM Class Creation 📜
 Took the initiative to craft an independent SVM class.
 This class is the epitome of SVM functionalities, ensuring a user-friendly SVM modeling experience.
